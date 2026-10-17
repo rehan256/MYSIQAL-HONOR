@@ -1,95 +1,70 @@
-<!DOCTYPE html>
-<html lang="id">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>SERVER MINECRAFT MYSIQAL HONOR</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(to bottom right, #1a1a1a, #2c2c2c);
-      color: #fff;
-      padding: 20px;
-    }
-    .container {
-      max-width: 1000px;
-      margin: 0 auto;
-      background-color: #222;
-      border-radius: 16px;
-      overflow: hidden;
-      box-shadow: 0 0 20px rgba(0,0,0,0.5);
-    }
-    .header {
-      background-color: #333;
-      padding: 20px;
-      text-align: center;
-      border-bottom: 1px solid #444;
-    }
-    .header h1 {
-      font-size: 2em;
-      color: #00ffcc;
-    }
-    .screenshot {
-      width: 100%;
-      display: block;
-      border-bottom: 1px solid #444;
-    }
-    .content {
-      padding: 20px;
-    }
-    .content h2 {
-      color: #00ffcc;
-      margin-bottom: 10px;
-    }
-    .content p {
-      line-height: 1.6;
-      margin-bottom: 20px;
-    }
-    .button {
-      background-color: #00ffcc;
-      color: #000;
-      padding: 12px 24px;
-      border: none;
-      border-radius: 8px;
-      font-size: 1em;
-      cursor: pointer;
-      transition: background 0.3s;
-      text-decoration: none;
-      display: inline-block;
-      margin-top: 10px;
-    }
-    .button:hover {
-      background-color: #00bfa6;
-    }
-    @media (max-width: 600px) {
-      .header h1 {
-        font-size: 1.5em;
-      }
-      .content {
-        padding: 15px;
-      }
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="header">
-      <h1>SERVER MINECRAFT MYSIQAL HONOR</h1>
-    </div>
-    <img class="screenshot" src="A_webpage_screenshot_showcases_a_Minecraft_server_.png" alt="Foto Server Minecraft" />
-    <div class="content">
-      <h2>MYSIQAL HONOR</h2>
-      <p>Kalian sedang mencari server Minecraft yang menyediakan banyak sekali mode dan item/barang gratis, serta event yang diadakan 5 hari sampai 1 minggu sekali? Kadang kalau admin rajin bisa 1 minggu 2×! MYSIQAL HONOR sedang kolaborasi dengan server bernama Minecraft Origin. Jadi manfaatkan kesempatan ini karena kami lagi mengadakan giveaway. Ayo join server MYSIQAL HONOR sekarang!</p>
+<div align="center">
 
-      <h2>BERIKUT FOTO-FOTO YANG ADA DI MYSIQAL HONOR</h2>
+# ⚔️ MYSIQAL HONOR MINECRAFT SERVER
 
-      <a class="button" href="https://chat.whatsapp.com/DrdSBhAyKBfGlHr6UGXae3" target="_blank">JOIN GRUP/SERVER</a>
-    </div>
-  </div>
-</body>
-</html>
+**Komunitas Server Minecraft Indonesia dengan Beragam Mode Permainan, Event Rutin, dan Komunitas Aktif.**
+
+[![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=minecraft)](https://chat.whatsapp.com/DrdSBhAyKBfGlHr6UGXae3)
+[![Platform](https://img.shields.io/badge/Platform-Java%20%7C%20Bedrock-blue?style=for-the-badge&logo=curseforge)](https://chat.whatsapp.com/DrdSBhAyKBfGlHr6UGXae3)
+[![Community](https://img.shields.io/badge/WhatsApp-Komunitas-25D366?style=for-the-badge&logo=whatsapp)](https://chat.whatsapp.com/DrdSBhAyKBfGlHr6UGXae3)
+
+---
+
+![Banner Server](A_webpage_screenshot_showcases_a_Minecraft_server_.png)
+
+</div>
+
+## 📖 Tentang MYSIQAL HONOR
+
+**MYSIQAL HONOR** adalah server Minecraft berbasis komunitas yang dirancang untuk memberikan pengalaman bermain yang seru, kompetitif, dan ramah bagi pemain baru maupun veteran.
+
+Bekerja sama dengan mitra resmi kami, **Minecraft Origin**, kami secara berkala mengadakan berbagai macam event seru, giveaway hadiah in-game, serta update konten rutin demi menjaga ekosistem bermain tetap segar dan menyenangkan.
+
+---
+
+## ✨ Fitur Unggulan
+
+- 🎁 **Event & Giveaway Rutin:** Diselenggarakan setiap 5–7 hari sekali (hingga 2× seminggu pada event khusus).
+- 🎒 **Starter Kit & Free Items:** Paket perlengkapan gratis untuk mempermudah petualangan awal setiap pemain baru.
+- 🤝 **Official Collaboration:** Kolaborasi spesial bersama server **Minecraft Origin** dengan event lintas komunitas.
+- 🛡️ **Sistem Fair-Play:** Manajemen server dan proteksi aktif untuk memastikan pengalaman bermain adil tanpa gangguan cheat.
+- 👥 **Komunitas Ramah & Solid:** Forum diskusi aktif melalui grup WhatsApp resmi untuk koordinasi dan pertemanan.
+
+---
+
+## 🚀 Cara Bergabung
+
+Untuk mendapatkan informasi alamat IP/Port server, pengumuman whitelist, serta jadwal event terbaru, bergabunglah ke komunitas resmi kami:
+
+<div align="center">
+
+[![Gabung Grup WhatsApp](https://img.shields.io/badge/GABUNG_GRUP_WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/DrdSBhAyKBfGlHr6UGXae3)
+
+*Klik tombol di atas untuk bergabung ke grup resmi MYSIQAL HONOR.*
+
+</div>
+
+---
+
+## 📜 Peraturan Server
+
+Demi kenyamanan bersama, seluruh pemain diwajibkan mematuhi pedoman berikut:
+
+1. **No Cheating / Exploiting:** Dilarang keras menggunakan modifikasi ilegal, cheat (X-Ray, Fly, dsb.), atau memanfaatkan bug/glitch.
+2. **Hormati Sesama:** Tidak diperkenankan melakukan ujaran kebencian, pelecehan, toxic, atau provokasi.
+3. **Griefing Policy:** Patuhi aturan klaim wilayah dan jangan merusak bangunan pemain lain di area terlindungi.
+4. **Ikuti Arahan Admin:** Keputusan tim staf/admin bersifat mutlak demi integritas server.
+
+---
+
+## 📸 Galeri
+
+Dokumentasi dan tangkapan layar keseruan di server MYSIQAL HONOR akan terus diperbarui melalui media resmi komunitas kami.
+
+---
+
+<div align="center">
+
+© 2025 **MYSIQAL HONOR** x **Minecraft Origin**. All Rights Reserved.
+
+</div>
